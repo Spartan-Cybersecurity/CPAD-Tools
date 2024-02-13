@@ -34,6 +34,7 @@ Este repositorio también sirve como un compendio de herramientas y scripts reco
 - Scripts personalizados para la enumeración de servicios AD.
 - Herramientas de explotación específicas para vulnerabilidades de AD.
 - Guías y manuales de uso para cada herramienta proporcionada.
+<br>
 
 > ## :books: Aprende Gratis con Nuestro Libro sobre Pentesting en Active Directory
 >
