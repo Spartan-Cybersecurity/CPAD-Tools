@@ -52,6 +52,7 @@ Este repositorio también sirve como un compendio de herramientas y scripts reco
 > Para descargar tu copia gratuita del libro y comenzar tu viaje hacia el dominio del pentesting en Active Directory, visita el siguiente enlace:
 > 
 > [Descargar Libro de Pentesting en Active Directory](https://spartan-cybersec.gitbook.io/cpad/)
+<br>
 
 ## :page_facing_up: Licencia
 
