@@ -6,27 +6,6 @@ Bienvenidos al espacio oficial de información y recursos del **CPAD-100**, nues
 
 El **CPAD-100** es un curso integral dirigido a profesionales de la seguridad informática y aspirantes a pentesters que deseen especializarse en el ámbito específico de Active Directory. A través de un currículo detallado y práctico, el curso cubre desde los fundamentos de AD hasta técnicas avanzadas de explotación y post-explotación.
 
-## :books: Aprende Gratis con Nuestro Libro sobre Pentesting en Active Directory
-
-Para aquellos que buscan profundizar en el pentesting contra Active Directory sin costo alguno, tenemos una excelente noticia. **SpartanCyberSecurity** ofrece un libro completamente gratuito que cubre todo el contenido teórico y práctico del curso CPAD-100. Este recurso es ideal para estudiantes, profesionales y entusiastas de la seguridad informática que desean ampliar sus conocimientos en este campo crítico.
-
-### :sparkles: ¿Qué encontrarás en el libro?
-
-El libro está diseñado para complementar tu aprendizaje en el curso CPAD-100, proporcionando:
-
-- Explicaciones detalladas sobre la arquitectura y funcionamiento de Active Directory.
-- Guías paso a paso para la enumeración, reconocimiento y explotación de vulnerabilidades en entornos AD.
-- Técnicas de post-explotación para mantener el acceso y expandir tus privilegios dentro de la red.
-- Ejercicios prácticos y ejemplos reales que te permitirán aplicar lo aprendido en escenarios similares a los que enfrentarás como pentester profesional.
-
-Este libro es una herramienta invaluable para todos aquellos que desean adentrarse en el mundo del pentesting de Active Directory de manera autodidacta o como complemento a su formación en el curso CPAD-100.
-
-### :arrow_down: Descarga el Libro Gratis
-
-Para descargar tu copia gratuita del libro y comenzar tu viaje hacia el dominio del pentesting en Active Directory, visita el siguiente enlace:
-
-[Descargar Libro de Pentesting en Active Directory](#)
-
 ### :dart: Objetivos del Curso
 
 - **Comprensión profunda de Active Directory**: Conocer la arquitectura, funciones y vulnerabilidades comunes de AD.
@@ -50,11 +29,28 @@ Para más detalles sobre el **CPAD-100**, incluyendo inscripciones, temario y re
 
 ## :wrench: Herramientas y Scripts
 
-Este repositorio también sirve como un compendio de herramientas y scripts recomendados y/o desarrollados específicamente para el CPAD-100. Encuentra dentro del repositorio:
+Este repositorio también sirve como un compendio de herramientas y scripts recomendados y/o desarrollados específicamente para el curso CPAD-100. Encuentra dentro del repositorio:
 
 - Scripts personalizados para la enumeración de servicios AD.
 - Herramientas de explotación específicas para vulnerabilidades de AD.
 - Guías y manuales de uso para cada herramienta proporcionada.
+
+> ## :books: Aprende Gratis con Nuestro Libro sobre Pentesting en Active Directory
+>
+> **Spartan-Cybersecurity** ofrece un libro completamente gratuito que cubre todo el contenido teórico y práctico del CPAD-100. Este recurso es ideal para estudiantes, profesionales y entusiastas de la seguridad informática que desean ampliar sus conocimientos en este campo crítico.
+>
+> ### ¿Qué encontrarás en el libro?
+> 
+> - Explicaciones detalladas sobre la arquitectura y funcionamiento de Active Directory.
+> - Guías paso a paso para la enumeración, reconocimiento y explotación de vulnerabilidades en entornos AD.
+> - Técnicas de post-explotación para mantener el acceso y expandir tus privilegios dentro de la red.
+> - Ejercicios prácticos y ejemplos reales que te permitirán aplicar lo aprendido en escenarios similares a los que enfrentarás como pentester profesional.
+> 
+> ### :arrow_down: Descarga el Libro Gratis
+> 
+> Para descargar tu copia gratuita del libro y comenzar tu viaje hacia el dominio del pentesting en Active Directory, visita el siguiente enlace:
+> 
+> [Descargar Libro de Pentesting en Active Directory](https://spartan-cybersec.gitbook.io/cpad/)
 
 ## :page_facing_up: Licencia
 
